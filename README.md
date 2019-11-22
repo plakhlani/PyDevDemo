@@ -1,2 +1,0 @@
-# PyDevDemo
-Sample python demo

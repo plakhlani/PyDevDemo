@@ -1,3 +1,0 @@
-PyDevDemo
-=========
-Sample repo

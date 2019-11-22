@@ -1,0 +1,13 @@
+[distutils]
+ index-servers =
+   pypi
+   local
+
+ [pypi]
+ username:<your_pypi_username>
+ password:<your_pypi_passwd>
+
+ [local]
+ repository: http://13.55.162.174/
+ username: pipyserver
+ password: pipyserver
